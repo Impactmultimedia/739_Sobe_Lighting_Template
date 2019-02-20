@@ -534,3 +534,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.20-10.28.51:631][  0]LogInit: Transaction tracking system initialized
 [2019.02.20-10.28.51:667][  0]BlueprintLog: New page: Editor Load
 [2019.02.20-10.28.51:813][  0]LocalizationService: Localization service is disabled
+[2019.02.20-10.28.52:720][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.20-10.28.52:720][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.20-10.28.52:720][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.20-10.28.52:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.20-10.28.52:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.20-10.28.52:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.20-10.28.52:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.20-10.28.53:682][  0]LogFileCache: Scanning file cache for directory 'V:/200 - Game Engine/Github/739_Sobe_Lighting_Template/739_Sobe_Lighting_Template/Lighting_Template/Content/' took 0.39s
+[2019.02.20-10.28.54:588][  0]SourceControl: Source control is disabled
+[2019.02.20-10.28.54:588][  0]Cmd: MAP LOAD FILE="V:/200 - Game Engine/Github/739_Sobe_Lighting_Template/739_Sobe_Lighting_Template/Lighting_Template/Content/Maps/Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.20-10.28.54:599][  0]LightingResults: New page: Lighting Build
+[2019.02.20-10.28.54:603][  0]MapCheck: New page: Map Check
+[2019.02.20-10.28.54:603][  0]LightingResults: New page: Lighting Build
